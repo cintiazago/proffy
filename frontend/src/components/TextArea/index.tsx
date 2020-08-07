@@ -1,14 +1,14 @@
-import React, { InputHTMLAttributes, useEffect, useRef } from 'react';
+import React, { TextareaHTMLAttributes, useEffect, useRef } from 'react';
 import { useField } from '@unform/core';
 
 import './styles.css';
 
-interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
+interface TextareaProps extends TextareaHTMLAttributes<HTMLTextAreaElement> {
   name: string;
   label: string;
 }
 
-const Input: React.FC<InputProps> = ({ name, label, ...props }) => {
+const Textarea: React.FC<TextareaProps> = ({ name, label, ...props }) => {
   const inputRef = useRef(null);
   const { fieldName, defaultValue, registerField, error } = useField(name);
 
@@ -21,13 +21,12 @@ const Input: React.FC<InputProps> = ({ name, label, ...props }) => {
   }, [fieldName, registerField]);
 
   return (
-    <div className="input-block">
+    <div className="textarea-block">
       <label htmlFor={name}>
         {label}
-        <input
+        <textarea
           id={name}
           name={name}
-          type="text"
           ref={inputRef}
           defaultValue={defaultValue}
           {...props}
@@ -38,4 +37,4 @@ const Input: React.FC<InputProps> = ({ name, label, ...props }) => {
   );
 };
 
-export default Input;
+export default Textarea;
