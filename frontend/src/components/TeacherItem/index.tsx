@@ -1,4 +1,3 @@
- 
 import React, { useCallback } from 'react';
 
 import WhatsAppIcon from '../../assets/images/icons/whatsapp.svg';

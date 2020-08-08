@@ -140,12 +140,10 @@ const TeacherForm: React.FC = () => {
 
           <fieldset>
             <legend>
-              <div>
                 Horários disponíveis
                 <button type="button" onClick={addNewScheduleItem}>
                   + Novo horário
                 </button>
-              </div>
             </legend>
 
             {schedules.map((schedule, index) => (
