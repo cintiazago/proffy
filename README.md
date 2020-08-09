@@ -79,7 +79,7 @@ Este projeto foi desenvolvido com as seguintes Ferramentas:
 
 ## 🚀 Como rodar este projeto
 
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js][nodejs] Instalado em seu computador.
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js][nodejs], [Expo][expo] Instalado em seu computador.
 
 O projeto e divido em três partes:
 
@@ -164,7 +164,7 @@ $ yarn start
   - Logout da aplicação
   - Deploy da aplicação
 
-  Para mais detalhes sobre cada desafio acesse <a ref="https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970#e2f50daeb88245459c7ab119cc8a1d3e">Versão 2.0 Proffy</a>!
+  > Para mais detalhes sobre cada desafio acesse [Versão 2.0 Proffy](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970#e2f50daeb88245459c7ab119cc8a1d3e)
 
 ## 🤔 Como contribuir para o projeto
 
