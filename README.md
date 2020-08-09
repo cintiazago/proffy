@@ -84,7 +84,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 O projeto e divido em três partes:
 
 1. Back End (pasta server)
-2. Front End (pasta web)
+2. Front End (pasta frontend)
 3. Mobile (pasta mobile)
 
 💡 Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
@@ -149,6 +149,22 @@ $ yarn start
 
 # Use o App expo baixado no seu celular para scan o QRCode
 ```
+
+## ✏  Desafios futuros
+
+- Como desafios propostos poderemos implementar a versão 2.0 do Proffy, contando com novas funcionalidades como:
+  - Layout 2.0
+  - Autenticação de usuários
+  - Recuperação de senhas
+  - Perfil do Proffy
+  - Splash Screen no React Native com Expo
+  - Paginação na listagem dos proffys
+  - Exibir horários disponíveis dos proffys
+  - Salvar os proffys favoritos no banco de dados
+  - Logout da aplicação
+  - Deploy da aplicação
+
+  Para mais detalhes sobre cada desafio acesse <a ref="https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970#e2f50daeb88245459c7ab119cc8a1d3e">Versão 2.0 Proffy</a>!
 
 ## 🤔 Como contribuir para o projeto
 
