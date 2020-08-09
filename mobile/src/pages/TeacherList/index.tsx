@@ -79,9 +79,11 @@ const TeacherList: React.FC = () => {
     });
   }, []);
 
-  useFocusEffect(() => {
-    loadFavorites();
-  });
+  useFocusEffect(
+    React.useCallback(() => {
+      loadFavorites();
+    }, [])
+  );
 
   return (
     <Container>

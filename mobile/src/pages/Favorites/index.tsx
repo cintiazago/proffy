@@ -18,9 +18,11 @@ const Favorites: React.FC = () => {
     });
   }, []);
 
-  useFocusEffect(() => {
-    loadFavorites();
-  });
+  useFocusEffect(
+    React.useCallback(() => {
+      loadFavorites();
+    }, [])
+  );
 
   return (
     <Container>
