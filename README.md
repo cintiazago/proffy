@@ -181,13 +181,7 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mai
 
 ## 🦸 Autora
 
-<h3 align="center">
-  <img style="border-radius: 50%" src="https://avatars2.githubusercontent.com/u/3417069?s=460&u=e0924e9fe21100cc5db5d0689d390b1ac59e1c8c&v=4" width="100px;" alt=""/>
-  <br/>
-  <strong>Cintia Zago</strong> 🚀
-  <br/>
-  <br/>
-
+<h4 align="center"> 
  <a href="https://www.linkedin.com/in/cintiazago" alt="LinkedIn" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
@@ -200,7 +194,7 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mai
 
 Feito com ❤️ por Cintia Zago 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cintiazago/)
 
-</h3>
+</h4>
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
