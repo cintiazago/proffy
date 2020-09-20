@@ -64,7 +64,7 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
   </tr>
 </table>
 
-## 🎨 Layout 2.0
+## 🎨 Layout 2.0 (Working in progress)
 
 <h3 align="center">
     <img alt="Example" title="Example" src=".github/profy_mobile_20.png" width="500px" />
