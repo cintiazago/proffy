@@ -11,8 +11,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/cintiazago/proffy">
 	
-  <a href="https://github.com/Alquipo/Proffys/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/Proffys?color=blue">
+  <a href="https://github.com/cintiazago/proffy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cintiazago/proffy?color=blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
@@ -63,6 +63,12 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
     <td><img src=".github/layout-mobile.png" width=180 /></td><td><img src=".github/mobile.png" width=180 /></td>
   </tr>
 </table>
+
+## 🎨 Layout 2.0
+
+<h3 align="center">
+    <img alt="Example" title="Example" src=".github/profy_mobile_20.png" width="500px" />
+</h3>
 
 ## :hammer: Tecnologias
 
